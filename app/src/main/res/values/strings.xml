@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FileProviderSample</string>
+    <string name="internal_storage_content_uri">Internal Storage Content URI</string>
+    <string name="line_camera">LINE CAMERA</string>
+    <string name="quickpic">Quickpic</string>
+    <string name="photos">Photos</string>
+    <string name="external_storage_content_uri">External Storage Content URI</string>
+    <string name="internal_storage_file_uri">Internal Storage File URI</string>
+    <string name="external_storage_file_uri">External Storage File URI</string>
+</resources>
